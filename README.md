@@ -3,7 +3,7 @@
 A simple English transition vscode extension.
 
 ## Features
-It can variable names and sentence.
+It can translate variable names and sentence.
 
 Follow pattern can be translated:
 - getTranslation
